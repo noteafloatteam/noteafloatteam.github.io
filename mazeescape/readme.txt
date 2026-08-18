@@ -1,1 +1,1 @@
-This is a new subdirectory for storing Maze Scape files and its subdirectories
+This is a new subdirectory for storing Maze Escape files and its subdirectories
